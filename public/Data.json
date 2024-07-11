@@ -1,0 +1,20 @@
+[
+   {
+      "id": 1,
+      "title": "- Karen Salmansohn",
+      "content": "Healthy does NOT mean starving yourself EVER. Healthy means eating the right food in the right amount.",
+      "image": "/Media/imgslider1.jpg"
+   },
+   {
+      "id": 2,
+      "title": "- Edward Stanley",
+      "content": "Those who think they have no time for healthy eating will sooner or later have to find time for illness.",
+      "image": "/Media/imgslider2.jpg"
+   },
+   {
+      "id": 3,
+      "title": "- Ann Wigmore",
+      "content": "Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.",
+      "image": "/Media/imgslider3.webp"
+   }
+]
