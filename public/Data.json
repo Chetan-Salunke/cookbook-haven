@@ -1,20 +1,62 @@
-[
-   {
-      "id": 1,
-      "title": "- Karen Salmansohn",
-      "content": "Healthy does NOT mean starving yourself EVER. Healthy means eating the right food in the right amount.",
-      "image": "/Media/imgslider1.jpg"
-   },
-   {
-      "id": 2,
-      "title": "- Edward Stanley",
-      "content": "Those who think they have no time for healthy eating will sooner or later have to find time for illness.",
-      "image": "/Media/imgslider2.jpg"
-   },
-   {
-      "id": 3,
-      "title": "- Ann Wigmore",
-      "content": "Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.",
-      "image": "/Media/imgslider3.webp"
-   }
-]
+{
+   "Firstpage": [
+      {
+         "id": "FirstPage1",
+         "title": "- Karen Salmansohn",
+         "content": "Healthy does NOT mean starving yourself EVER. Healthy means eating the right food in the right amount.",
+         "image": "/Media/imgslider1.jpg"
+      },
+      {
+         "id": "FirstPage2",
+         "title": "- Edward Stanley",
+         "content": "Those who think they have no time for healthy eating will sooner or later have to find time for illness.",
+         "image": "/Media/imgslider2.jpg"
+      },
+      {
+         "id": "FirstPage3",
+         "title": "- Ann Wigmore",
+         "content": "Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.",
+         "image": "/Media/imgslider3.webp"
+      }
+   ],
+   "Breakfastpage": [
+      {
+         "id": "Breakfastpage1",
+         "title": "Mashed Plantains With Fried Eggs",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/bfimg1.jpg"
+      },
+      {
+         "id": "Breakfastpage2",
+         "title": "Trout Toast with Soft Scrambled Eggs",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/bfimg2.jpg"
+      },
+      {
+         "id": "Breakfastpage3",
+         "title": "Butternut Squash and Chorizo Hash",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/bfimg3.jpg"
+      }
+   ],
+   "Dinnerpage": [
+      {
+         "id": "Dinnerpage1",
+         "title": "Yogurt and Spice Roasted Salmon",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/dinnerimg1.jpg"
+      },
+      {
+         "id": "Dinnerpage2",
+         "title": "Grilled-Greens-and-Cheese-on-Toast",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/dinnerimg2.jpg"
+      },
+      {
+         "id": "Dinnerpage3",
+         "title": "Easy Grilled Salmon in Foil With Lemon-Garlic-Herb Butter",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/dinnerimg3.jpg"
+      }
+   ]
+}

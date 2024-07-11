@@ -7,7 +7,7 @@ function Imgcarousel() {
   useEffect(() => {
     fetch('/Data.json')
       .then(response => response.json())
-      .then(jsonData => setData(jsonData))
+      .then(jsonData => setData(jsonData.Firstpage))
       .catch(error => console.error('Error fetching data:', error));
   }, []);
 
