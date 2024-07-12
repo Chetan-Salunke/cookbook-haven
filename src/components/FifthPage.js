@@ -12,18 +12,18 @@ export default function FifthPage() {
     },[])
 
     if (!data) {
-        return <div>Loading...</div>;
+        return <div>Loading..........</div>;
       }
   return (
-    <section className="text-gray-600 body-font bg-[#FEFFD2]">
+    <section className="text-gray-600 body-font bg-[#F7F7F7]">
       <div className="container px-5 py-16 mx-auto">
         <div className="flex flex-col">
           <div className="h-1 bg-gray-200 rounded overflow-hidden">
-            <div className="w-3/4 h-full bg-[#FC4100]"></div>
+            <div className="w-3/4 h-full bg-[#EDB654]"></div>
           </div>
           <div className="flex flex-wrap sm:flex-row flex-col py-6 mb-12">
-            <h1 className="sm:w-2/5 text-gray-900 font-medium title-font text-2xl mb-2 sm:mb-0">Dessert Recipes</h1>
-            <p className="sm:w-3/5 leading-relaxed sm:pl-10 pl-0 text-[#FF7D29]">
+            <h1 className="sm:w-2/5 text-gray-900 font-medium title-font text-2xl mb-2 sm:mb-0 custom-font">Dessert Recipes</h1>
+            <p className="sm:w-3/5 leading-relaxed sm:pl-10 pl-0 text-[#EDB654]">
               Easy Cocktails to Make as Soon as It’s Five O’Clock Somewhere. When it’s happy hour, it’s time to leave the fuss behind.
             </p>
           </div>
@@ -38,7 +38,7 @@ export default function FifthPage() {
               <p className="text-base leading-relaxed mt-2 mb-2">{item.content}</p>
               <button
                 type="button"
-                className="py-2 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent bg-[#FF7D29] text-black hover:bg-[#FFBF78] disabled:opacity-50 disabled:pointer-events-none"
+                className="py-2 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent bg-[#734060] text-white hover:text-black hover:bg-[#EDB654] disabled:opacity-50 disabled:pointer-events-none"
                 data-hs-overlay="#hs-scroll-inside-viewport-modal"
               >
                 Learn More
