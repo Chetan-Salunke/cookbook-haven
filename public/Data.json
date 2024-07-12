@@ -62,21 +62,41 @@
    "Cocktailspage": [
       {
          "id": "Cocktailspage1",
-         "title": "Yogurt and Spice Roasted Salmon",
+         "title": "The Classic Margarita",
          "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
-         "image": "/Media/dinnerimg1.jpg"
+         "image": "/Media/drinkimg1.jpg"
       },
       {
          "id": "Cocktailspage2",
-         "title": "Grilled-Greens-and-Cheese-on-Toast",
+         "title": "The Most Refreshing Gin and Tonic",
          "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
-         "image": "/Media/dinnerimg2.jpg"
+         "image": "/Media/drinkimg2.jpg"
       },
       {
          "id": "Cocktailspage3",
-         "title": "Easy Grilled Salmon in Foil With Lemon-Garlic-Herb Butter",
+         "title": "Our Favorite Aperol Spritz",
          "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
-         "image": "/Media/dinnerimg3.jpg"
+         "image": "/Media/drinkimg3.jpg"
+      }
+   ],
+   "Dessertpage": [
+      {
+         "id": "Dessertpage1",
+         "title": "Candied Pumpkin With Tahini and Date Syrup",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/dessertimg1.jpg"
+      },
+      {
+         "id": "Dessertpage2",
+         "title": "Molten Double Chocolate Mug Cake",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/dessertimg2.jpg"
+      },
+      {
+         "id": "Dessertpage3",
+         "title": "Vanilla Cheesecake With a Chocolate Cookie Crust",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/dessertimg3.jpg"
       }
    ]
 }

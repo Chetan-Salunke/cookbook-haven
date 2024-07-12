@@ -7,7 +7,7 @@ export default function FourthPage() {
     useEffect(()=>{
         fetch('/Data.json')
         .then(response => response.json())
-        .then(jsonData => setData(jsonData.Dinnerpage))
+        .then(jsonData => setData(jsonData.Cocktailspage))
         .catch(error => console.error('Error fetching data:', error));
     },[])
 
@@ -36,7 +36,7 @@ export default function FourthPage() {
                 <img alt={item.title} className="object-cover object-center h-full w-full" src={item.image} />
               </div>
               <h2 className="text-xl font-medium title-font text-gray-900 mt-5">{item.title}</h2>
-              <p className="text-base leading-relaxed mt-2 mb-2">{item.description}</p>
+              <p className="text-base leading-relaxed mt-2 mb-2">{item.content}</p>
               <button
                 type="button"
                 className="py-2 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent bg-[#FF7D29] text-black hover:bg-[#FFBF78] disabled:opacity-50 disabled:pointer-events-none"
