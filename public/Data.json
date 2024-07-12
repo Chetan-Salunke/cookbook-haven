@@ -58,5 +58,25 @@
          "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
          "image": "/Media/dinnerimg3.jpg"
       }
+   ],
+   "Cocktailspage": [
+      {
+         "id": "Cocktailspage1",
+         "title": "Yogurt and Spice Roasted Salmon",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/dinnerimg1.jpg"
+      },
+      {
+         "id": "Cocktailspage2",
+         "title": "Grilled-Greens-and-Cheese-on-Toast",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/dinnerimg2.jpg"
+      },
+      {
+         "id": "Cocktailspage3",
+         "title": "Easy Grilled Salmon in Foil With Lemon-Garlic-Herb Butter",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/dinnerimg3.jpg"
+      }
    ]
 }
