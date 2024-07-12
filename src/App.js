@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import FirstPage from './components/FirstPage';
 import SecondPage from './components/SecondPage';
 import ThirdPage from './components/ThirdPage';
+import FourthPage from './components/FourthPage';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
     <FirstPage />
     <SecondPage/>
     <ThirdPage/>
+    <FourthPage/>
     </>
   );
 }
