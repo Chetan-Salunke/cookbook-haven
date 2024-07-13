@@ -8,6 +8,7 @@ import FourthPage from './components/FourthPage';
 import FifthPage from './components/FifthPage';
 import Footer from './components/Footer';
 import MainPage from './components/MainPage';
+import CardPage from './components/CardPage';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Route path='/fourthpage' Component={FourthPage} />
         <Route path='/fifthpage' Component={FifthPage} />
         <Route path='/footer' Component={Footer} />
+        <Route path='/cardpage' Component={CardPage} />
       </Routes>
 
     </>

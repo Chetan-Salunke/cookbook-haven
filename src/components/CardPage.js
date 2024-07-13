@@ -5,12 +5,10 @@ export default function CardPage() {
 
     const [showModal, setShowModal] = useState(false);
     const [selectedItem, setSelectedItem] = useState(null);
-
     const toggleModal = (item) => {
         setSelectedItem(item);
         setShowModal(!showModal);
     };
-
     const [data, setData] = useState(null);
 
     useEffect(() => {
@@ -32,7 +30,7 @@ export default function CardPage() {
                     <div className="px-6 py-4">
                         <div className="font-bold text-xl mb-2">{item.title}</div>
                         <p className="text-gray-700 text-base">
-                            This is a simple card component. Click the button below to learn more.
+                            {item.content}
                         </p>
                     </div>
                     <div className="px-6 py-4">
@@ -62,7 +60,7 @@ export default function CardPage() {
                                         </h3>
                                         <div className="mt-2">
                                             <p className="text-sm text-gray-500">
-                                                This is a simple modal. You can put any content here.
+                                                {selectedItem.steps}
                                             </p>
                                         </div>
                                     </div>

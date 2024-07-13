@@ -15,6 +15,7 @@ function Navbar() {
           <Link to='/thirdpage' className="mr-6 hover:text-gray-900">DINNER</Link>
           <Link to='/fourthpage' className="mr-6 hover:text-gray-900">COCKTAILS</Link>
           <Link to='/fifthpage' className="mr-6 hover:text-gray-900">DESSERT</Link>
+          <Link to='/cardpage' className="mr-6 hover:text-gray-900">RECIPES</Link>
         </nav>
       </div>
     </header>

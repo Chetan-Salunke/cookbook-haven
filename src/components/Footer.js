@@ -31,53 +31,50 @@ function Footer() {
                         </nav>
                     </div>
                     <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-                        <h2 className="title-font font-semibold text-[#000000] tracking-widest text-sm mb-3">CATEGORIES</h2>
+                        <h2 className="title-font font-semibold text-[#000000] tracking-widest text-sm mb-3">SNACKS</h2>
                         <nav className="list-none mb-10 text-[#734060]">
                             <li>
-                                <Link className="hover:text-gray-800" to='/'>First Link</Link>
+                                <Link className="hover:text-gray-800" to='/cardpage'>Murmura Chivda</Link>
                             </li>
                             <li>
-                                <Link className="hover:text-gray-800" to='/'>Second Link</Link>
+                                <Link className="hover:text-gray-800" to='/cardpage'>Besan Chilla</Link>
                             </li>
                             <li>
-                                <Link className="hover:text-gray-800" to='/'>Third Link</Link>
+                                <Link className="hover:text-gray-800" to='/cardpage'>Vada Pav</Link>
                             </li>
                             <li>
-                                <Link className="hover:text-gray-800" to='/'>Fourth Link</Link>
+                                <Link className="hover:text-gray-800" to='/cardpage'>Air Fryer Corn</Link>
                             </li>
                         </nav>
                     </div>
                     <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-                        <h2 className="title-font font-semibold text-[#000000] tracking-widest text-sm mb-3">CATEGORIES</h2>
+                        <h2 className="title-font font-semibold text-[#000000] tracking-widest text-sm mb-3">BREAKFAST</h2>
                         <nav className="list-none mb-10 text-[#734060]">
                             <li>
-                                <Link className="hover:text-gray-800" to='/'>First Link</Link>
+                                <Link className="hover:text-gray-800" to='/cardpage'>Quinoa Dosa</Link>
                             </li>
                             <li>
-                                <Link className="hover:text-gray-800" to='/'>Second Link</Link>
+                                <Link className="hover:text-gray-800" to='/cardpage'>Idli</Link>
                             </li>
                             <li>
-                                <Link className="hover:text-gray-800" to='/'>Third Link</Link>
+                                <Link className="hover:text-gray-800" to='/cardpage'>Poha</Link>
                             </li>
                             <li>
-                                <Link className="hover:text-gray-800" to='/'>Fourth Link</Link>
+                                <Link className="hover:text-gray-800" to='/cardpage'>Air Fryer Potato</Link>
                             </li>
                         </nav>
                     </div>
                     <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-                        <h2 className="title-font font-semibold text-[#000000] tracking-widest text-sm mb-3">CATEGORIES</h2>
+                        <h2 className="title-font font-semibold text-[#000000] tracking-widest text-sm mb-3">COCKTAILS</h2>
                         <nav className="list-none mb-10 text-[#734060]">
                             <li>
-                                <Link className="hover:text-gray-800" to='/'>First Link</Link>
+                                <Link className="hover:text-gray-800" to='/fourthpage'>Margarita</Link>
                             </li>
                             <li>
-                                <Link className="hover:text-gray-800" to='/'>Second Link</Link>
+                                <Link className="hover:text-gray-800" to='/fourthpage'>Gin and Tonic</Link>
                             </li>
                             <li>
-                                <Link className="hover:text-gray-800" to='/'>Third Link</Link>
-                            </li>
-                            <li>
-                                <Link className="hover:text-gray-800" to='/'>Fourth Link</Link>
+                                <Link className="hover:text-gray-800" to='/fourthpage'>Aperol Spritz</Link>
                             </li>
                         </nav>
                     </div>
