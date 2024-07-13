@@ -98,5 +98,61 @@
          "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
          "image": "/Media/dessertimg3.jpg"
       }
+   ],
+   "RecipePage": [
+      {
+         "id": "RecipePage1",
+         "title": "Candied Pumpkin With Tahini and Date Syrup",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/recipes1.jpg"
+      },
+      {
+         "id": "RecipePage2",
+         "title": "Molten Double Chocolate Mug Cake",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/recipes2.jpg"
+      },
+      {
+         "id": "RecipePage3",
+         "title": "Vanilla Cheesecake With a Chocolate Cookie Crust",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/recipes3.jpg"
+      },
+      {
+         "id": "RecipePage4",
+         "title": "Vanilla Cheesecake With a Chocolate Cookie Crust",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/recipes4.webp"
+      },
+      {
+         "id": "RecipePage5",
+         "title": "Vanilla Cheesecake With a Chocolate Cookie Crust",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/recipes5.webp"
+      },
+      {
+         "id": "RecipePage6",
+         "title": "Vanilla Cheesecake With a Chocolate Cookie Crust",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/recipes6.jpg"
+      },
+      {
+         "id": "RecipePage7",
+         "title": "Vanilla Cheesecake With a Chocolate Cookie Crust",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/recipes7.webp"
+      },
+      {
+         "id": "RecipePage8",
+         "title": "Vanilla Cheesecake With a Chocolate Cookie Crust",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/recipes8.jpg"
+      },
+      {
+         "id": "RecipePage9",
+         "title": "Vanilla Cheesecake With a Chocolate Cookie Crust",
+         "content": "Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.",
+         "image": "/Media/recipes9.webp"
+      }
    ]
 }

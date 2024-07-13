@@ -11,10 +11,10 @@ function Navbar() {
         </a>
         <nav className="md:ml-auto md:mr-auto flex flex-wrap text-[#e6e6e6] tracking-wider items-center text-base justify-center">
           <Link to='/' className="mr-6 hover:text-gray-900">HOME</Link>
-          <Link to='/' className="mr-6 hover:text-gray-900">ABOUT</Link>
-          <Link to='/' className="mr-6 hover:text-gray-900">RECIPES</Link>
-          <Link to='/' className="mr-6 hover:text-gray-900">POPULAR</Link>
-          <Link to='/footer' className="mr-6 hover:text-gray-900">CONTACT US</Link>
+          <Link to='/secondpage' className="mr-6 hover:text-gray-900">BREAKFAST</Link>
+          <Link to='/thirdpage' className="mr-6 hover:text-gray-900">DINNER</Link>
+          <Link to='/fourthpage' className="mr-6 hover:text-gray-900">COCKTAILS</Link>
+          <Link to='/fifthpage' className="mr-6 hover:text-gray-900">DESSERT</Link>
         </nav>
       </div>
     </header>

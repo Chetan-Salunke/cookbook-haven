@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 function Footer() {
     return (
@@ -16,33 +17,16 @@ function Footer() {
                         <h2 className="title-font font-semibold text-[#000000] tracking-widest text-sm mb-3">CATEGORIES</h2>
                         <nav className="list-none mb-10 text-[#734060]">
                             <li>
-                                <a className="hover:text-gray-800" href='/'>First Link</a>
+                                <Link className="hover:text-gray-800" to='/secondpage'>Breakfast</Link>
                             </li>
                             <li>
-                                <a className="hover:text-gray-800" href='/'>Second Link</a>
+                                <Link className="hover:text-gray-800" to='/thirdpage'>Dinner</Link>
                             </li>
                             <li>
-                                <a className="hover:text-gray-800" href='/'>Third Link</a>
+                                <Link className="hover:text-gray-800" to='/fourthpage'>Cocktails</Link>
                             </li>
                             <li>
-                                <a className="hover:text-gray-800" href='/'>Fourth Link</a>
-                            </li>
-                        </nav>
-                    </div>
-                    <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-                        <h2 className="title-font font-semibold text-[#000000] tracking-widest text-sm mb-3">CATEGORIES</h2>
-                        <nav className="list-none mb-10 text-[#734060]">
-                            <li>
-                                <a className="hover:text-gray-800" href='/'>First Link</a>
-                            </li>
-                            <li>
-                                <a className="hover:text-gray-800" href='/'>Second Link</a>
-                            </li>
-                            <li>
-                                <a className="hover:text-gray-800" href='/'>Third Link</a>
-                            </li>
-                            <li>
-                                <a className="hover:text-gray-800" href='/'>Fourth Link</a>
+                                <Link className="hover:text-gray-800" to='/fifthpage'>Dessert</Link>
                             </li>
                         </nav>
                     </div>
@@ -50,16 +34,16 @@ function Footer() {
                         <h2 className="title-font font-semibold text-[#000000] tracking-widest text-sm mb-3">CATEGORIES</h2>
                         <nav className="list-none mb-10 text-[#734060]">
                             <li>
-                                <a className="hover:text-gray-800" href='/'>First Link</a>
+                                <Link className="hover:text-gray-800" to='/'>First Link</Link>
                             </li>
                             <li>
-                                <a className="hover:text-gray-800" href='/'>Second Link</a>
+                                <Link className="hover:text-gray-800" to='/'>Second Link</Link>
                             </li>
                             <li>
-                                <a className="hover:text-gray-800" href='/'>Third Link</a>
+                                <Link className="hover:text-gray-800" to='/'>Third Link</Link>
                             </li>
                             <li>
-                                <a className="hover:text-gray-800" href='/'>Fourth Link</a>
+                                <Link className="hover:text-gray-800" to='/'>Fourth Link</Link>
                             </li>
                         </nav>
                     </div>
@@ -67,16 +51,33 @@ function Footer() {
                         <h2 className="title-font font-semibold text-[#000000] tracking-widest text-sm mb-3">CATEGORIES</h2>
                         <nav className="list-none mb-10 text-[#734060]">
                             <li>
-                                <a className="hover:text-gray-800" href='/'>First Link</a>
+                                <Link className="hover:text-gray-800" to='/'>First Link</Link>
                             </li>
                             <li>
-                                <a className="hover:text-gray-800" href='/'>Second Link</a>
+                                <Link className="hover:text-gray-800" to='/'>Second Link</Link>
                             </li>
                             <li>
-                                <a className="hover:text-gray-800" href='/'>Third Link</a>
+                                <Link className="hover:text-gray-800" to='/'>Third Link</Link>
                             </li>
                             <li>
-                                <a className="hover:text-gray-800" href='/'>Fourth Link</a>
+                                <Link className="hover:text-gray-800" to='/'>Fourth Link</Link>
+                            </li>
+                        </nav>
+                    </div>
+                    <div className="lg:w-1/4 md:w-1/2 w-full px-4">
+                        <h2 className="title-font font-semibold text-[#000000] tracking-widest text-sm mb-3">CATEGORIES</h2>
+                        <nav className="list-none mb-10 text-[#734060]">
+                            <li>
+                                <Link className="hover:text-gray-800" to='/'>First Link</Link>
+                            </li>
+                            <li>
+                                <Link className="hover:text-gray-800" to='/'>Second Link</Link>
+                            </li>
+                            <li>
+                                <Link className="hover:text-gray-800" to='/'>Third Link</Link>
+                            </li>
+                            <li>
+                                <Link className="hover:text-gray-800" to='/'>Fourth Link</Link>
                             </li>
                         </nav>
                     </div>
